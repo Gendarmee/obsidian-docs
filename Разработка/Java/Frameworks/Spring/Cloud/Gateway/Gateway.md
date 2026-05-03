@@ -1,0 +1,1 @@
+Реализация паттерна [[API Gateway]] в Spring Cloud Gateway. Имеет два 
