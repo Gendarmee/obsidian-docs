@@ -3,4 +3,7 @@
 Исторически есть две совершенно разные по архитектуре версии, первая это webmvc - работающая на сервлетах, и ее реактивный аналог webflux. Поэтому об особенностях них по очереди.
 # WebMVC
 
-![[spring_cloud_gateway_mvc_diagram.png]]
+![[spring_cloud_gateway_mvc_diagram.png|443]]
+
+# WebFlux
+
